@@ -9,6 +9,7 @@ namespace Persistence.DataAccess
         public void Configure(EntityTypeBuilder<Coffee> builder)
         {
             builder.HasKey(e => e.Id);
+            builder.Property(e => e.Price).HasPrecision(10, 2);
         }
     }
 }

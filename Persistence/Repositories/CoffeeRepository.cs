@@ -16,6 +16,13 @@ namespace Persistence.Repositories
             _dbContext = coffeeContext;
         }
 
+        public async Task<Coffee> GetAsync(Guid id)
+        {
+            var coffeeItem = await _dbContext.Coffee.FirstOrDefaultAsync(item => item.Id == id);
+
+            return coffeeItem;
+        }
+
         public async Task<IEnumerable<Coffee>> GetAllAsync()
         {
             var coffeeItems = await _dbContext.Coffee.ToListAsync();

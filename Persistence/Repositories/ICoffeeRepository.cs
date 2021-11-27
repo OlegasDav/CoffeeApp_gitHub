@@ -7,6 +7,8 @@ namespace Persistence.Repositories
 {
     public interface ICoffeeRepository
     {
+        Task<Coffee> GetAsync(Guid id);
+
         Task<IEnumerable<Coffee>> GetAllAsync();
 
         Task SaveAsync(Coffee model);

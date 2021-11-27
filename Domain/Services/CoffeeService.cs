@@ -60,6 +60,15 @@ namespace Domain.Services
 
         public async Task RemoveAsync(Guid id)
         {
+            try
+            {
+                var coffeeItem = await _coffeeRepository.GetAsync(id);
+                var path = Path.Combine(Directory.GetCurrentDirectory(), @"..\Upload\images", coffeeItem.Image);
+
+                File.Delete(path);
+            }
+            catch { }
+
             await _coffeeRepository.DeleteAsync(id);
         }
     }
