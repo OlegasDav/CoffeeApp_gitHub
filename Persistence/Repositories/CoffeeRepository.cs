@@ -9,9 +9,9 @@ namespace Persistence.Repositories
 {
     public class CoffeeRepository : ICoffeeRepository
     {
-        private readonly CoffeeContext _dbContext;
+        private readonly CoffeeAppContext _dbContext;
 
-        public CoffeeRepository(CoffeeContext coffeeContext)
+        public CoffeeRepository(CoffeeAppContext coffeeContext)
         {
             _dbContext = coffeeContext;
         }

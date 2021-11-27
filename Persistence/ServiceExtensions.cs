@@ -1,9 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
+﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Persistence.DatabaseContext;
 using Persistence.Repositories;
-using System;
+using Microsoft.EntityFrameworkCore;
 
 namespace Persistence
 {
@@ -28,8 +27,8 @@ namespace Persistence
         {
             var connectionString = configuration.GetConnectionString("SqlConnectionString");
 
-            return services.AddDbContext<CoffeeContext>(options =>
-                options.UseMySql(connectionString, new MySqlServerVersion(new Version(8, 0, 25))));
+            return services.AddDbContext<CoffeeAppContext>(options =>
+                options.UseSqlServer(connectionString), ServiceLifetime.Transient);
         }
     }
 }

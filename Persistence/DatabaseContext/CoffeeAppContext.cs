@@ -4,9 +4,9 @@ using Persistence.Entities;
 
 namespace Persistence.DatabaseContext
 {
-    public class CoffeeContext : DbContext
+    public class CoffeeAppContext : DbContext
     {
-        public CoffeeContext(DbContextOptions<CoffeeContext> options) : base(options)
+        public CoffeeAppContext(DbContextOptions<CoffeeAppContext> options) : base(options)
         {
         }
 
