@@ -22,9 +22,9 @@ namespace RestAPI.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<CoffeeResponseModel>>> GetAll()
         {
-            var coffee = await _coffeeService.GetAllAsync();
+            var coffeeItems = await _coffeeService.GetAllAsync();
 
-            return Ok(coffee);
+            return Ok(coffeeItems);
         }
 
         [HttpPost]

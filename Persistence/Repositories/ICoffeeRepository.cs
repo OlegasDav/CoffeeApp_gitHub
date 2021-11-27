@@ -1,5 +1,4 @@
-﻿using Persistence.Models.ReadModels;
-using Persistence.Models.WriteModels;
+﻿using Persistence.Entities;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -8,10 +7,10 @@ namespace Persistence.Repositories
 {
     public interface ICoffeeRepository
     {
-        Task<IEnumerable<CoffeeReadModel>> GetAllAsync();
+        Task<IEnumerable<Coffee>> GetAllAsync();
 
-        Task<int> SaveAsync(CoffeeWriteModel model);
+        Task SaveAsync(Coffee model);
 
-        Task<int> DeleteAsync(Guid id);
+        Task DeleteAsync(Guid id);
     }
 }

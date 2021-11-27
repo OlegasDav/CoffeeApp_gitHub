@@ -1,6 +1,6 @@
 ﻿using Contracts.Models.RequestModels;
 using Contracts.Models.ResponseModels;
-using Persistence.Models.WriteModels;
+using Persistence.Entities;
 using Persistence.Repositories;
 using System;
 using System.Collections.Generic;
@@ -21,9 +21,9 @@ namespace Domain.Services
 
         public async Task<IEnumerable<CoffeeResponseModel>> GetAllAsync()
         {
-            var coffee = await _coffeeRepository.GetAllAsync();
+            var coffeeItems = await _coffeeRepository.GetAllAsync();
 
-            return coffee.Select(item => item.MapToCoffeeResponseFromCoffeeRead());
+            return coffeeItems.Select(item => item.MapToCoffeeResponseFromCoffee());
         }
 
         public async Task<CoffeeResponseModel> AddAsync(CoffeeRequestModel request)
@@ -45,7 +45,7 @@ namespace Domain.Services
                 await request.Image.CopyToAsync(stream);
             }
 
-            var coffee = new CoffeeWriteModel
+            var coffee = new Coffee
             {
                 Id = Guid.NewGuid(),
                 Name = request.Name,
@@ -55,12 +55,12 @@ namespace Domain.Services
 
             await _coffeeRepository.SaveAsync(coffee);
 
-            return coffee.MapToCoffeeResponseFromCoffeeWrite();
+            return coffee.MapToCoffeeResponseFromCoffee();
         }
 
-        public async Task<int> RemoveAsync(Guid id)
+        public async Task RemoveAsync(Guid id)
         {
-            return await _coffeeRepository.DeleteAsync(id);
+            await _coffeeRepository.DeleteAsync(id);
         }
     }
 }

@@ -1,6 +1,7 @@
-﻿using Dapper;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Persistence.DatabaseContext;
 using Persistence.Repositories;
 using System;
 
@@ -10,28 +11,25 @@ namespace Persistence
     {
         public static IServiceCollection AddPersistence(this IServiceCollection services, IConfiguration configuration)
         {
-            SqlMapper.AddTypeHandler(new MySqlGuidTypeHandler());
-            SqlMapper.RemoveTypeMap(typeof(Guid));
-            SqlMapper.RemoveTypeMap(typeof(Guid?));
-
             return services
                 .AddRepositories()
-                .AddSqlClient(configuration);
+                .AddSqlDbContext(configuration);
         }
 
         private static IServiceCollection AddRepositories(this IServiceCollection services)
         {
             services
-                .AddSingleton<ICoffeeRepository, CoffeeRepository>();
+                .AddTransient<ICoffeeRepository, CoffeeRepository>();
 
             return services;
         }
 
-        private static IServiceCollection AddSqlClient(this IServiceCollection services, IConfiguration configuration)
+        private static IServiceCollection AddSqlDbContext(this IServiceCollection services, IConfiguration configuration)
         {
             var connectionString = configuration.GetConnectionString("SqlConnectionString");
 
-            return services.AddTransient<ISqlClient>(_ => new SqlClient(connectionString));
+            return services.AddDbContext<CoffeeContext>(options =>
+                options.UseMySql(connectionString, new MySqlServerVersion(new Version(8, 0, 25))));
         }
     }
 }

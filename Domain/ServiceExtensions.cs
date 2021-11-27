@@ -14,7 +14,7 @@ namespace Domain
         private static IServiceCollection AddServices(this IServiceCollection services)
         {
             services
-                .AddSingleton<ICoffeeService, CoffeeService>();
+                .AddTransient<ICoffeeService, CoffeeService>();
 
             return services;
         }

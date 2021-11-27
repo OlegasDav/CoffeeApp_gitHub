@@ -12,6 +12,6 @@ namespace Domain.Services
 
         Task<CoffeeResponseModel> AddAsync(CoffeeRequestModel request);
 
-        Task<int> RemoveAsync(Guid id);
+        Task RemoveAsync(Guid id);
     }
 }

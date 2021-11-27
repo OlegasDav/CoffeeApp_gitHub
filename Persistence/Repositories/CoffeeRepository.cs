@@ -1,5 +1,6 @@
-﻿using Persistence.Models.ReadModels;
-using Persistence.Models.WriteModels;
+﻿using Microsoft.EntityFrameworkCore;
+using Persistence.DatabaseContext;
+using Persistence.Entities;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -8,34 +9,33 @@ namespace Persistence.Repositories
 {
     public class CoffeeRepository : ICoffeeRepository
     {
-        private readonly ISqlClient _sqlClient;
-        private const string TableName = "coffee";
+        private readonly CoffeeContext _dbContext;
 
-        public CoffeeRepository(ISqlClient sqlClient)
+        public CoffeeRepository(CoffeeContext coffeeContext)
         {
-            _sqlClient = sqlClient;
+            _dbContext = coffeeContext;
         }
 
-        public Task<IEnumerable<CoffeeReadModel>> GetAllAsync()
+        public async Task<IEnumerable<Coffee>> GetAllAsync()
         {
-            var sql = $"SELECT * FROM {TableName}";
+            var coffeeItems = await _dbContext.Coffee.ToListAsync();
 
-            return _sqlClient.QueryAsync<CoffeeReadModel>(sql);
+            return coffeeItems;
         }
 
-        public Task<int> SaveAsync(CoffeeWriteModel model)
+        public async Task SaveAsync(Coffee model)
         {
-            var sql = @$"INSERT INTO {TableName} (Id, Name, Price, Image) 
-                        VALUES (@Id, @Name, @Price, @Image)";
-
-            return _sqlClient.ExecuteAsync(sql, model);
+            await _dbContext.Coffee.AddAsync(model);
+            await _dbContext.SaveChangesAsync();
         }
 
-        public Task<int> DeleteAsync(Guid id)
+        public async Task DeleteAsync(Guid id)
         {
-            var sql = $"DELETE FROM {TableName} WHERE Id = @Id;";
+            var coffeeItem = await _dbContext.Coffee.FirstOrDefaultAsync(item => item.Id == id);
 
-            return _sqlClient.ExecuteAsync(sql, new { Id = id });
+            _dbContext.Coffee.Remove(coffeeItem);
+
+            await _dbContext.SaveChangesAsync();
         }
     }
 }

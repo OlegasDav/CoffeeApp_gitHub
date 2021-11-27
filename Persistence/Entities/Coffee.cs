@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Persistence.Models.WriteModels
+namespace Persistence.Entities
 {
-    public class CoffeeWriteModel
+    public class Coffee
     {
         public Guid Id { get; set; }
 
