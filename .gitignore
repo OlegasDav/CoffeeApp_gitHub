@@ -33,5 +33,7 @@ msbuild.wrn
 # Visual Studio 2015
 .vs/
 
+Upload/
+
 appsettings.Development.json
 Contracts/Enums/Tests.cs
