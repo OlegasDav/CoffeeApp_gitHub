@@ -11,5 +11,7 @@ namespace Persistence.Entities
         public decimal Price { get; set; }
 
         public string Image { get; set; }
+
+        public DateTime DateCreated { get; set; }
     }
 }

@@ -24,7 +24,8 @@ namespace Domain
                 Id = item.Id,
                 Name = item.Name,
                 Price = item.Price,
-                Image = image
+                Image = image,
+                DateCreated = item.DateCreated
             };
         }
     }

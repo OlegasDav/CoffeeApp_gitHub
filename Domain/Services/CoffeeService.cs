@@ -23,7 +23,9 @@ namespace Domain.Services
         {
             var coffeeItems = await _coffeeRepository.GetAllAsync();
 
-            return coffeeItems.Select(item => item.MapToCoffeeResponseFromCoffee());
+            return coffeeItems
+                .OrderBy(item => item.DateCreated)
+                .Select(item => item.MapToCoffeeResponseFromCoffee());
         }
 
         public async Task<CoffeeResponseModel> AddAsync(CoffeeRequestModel request)
@@ -50,7 +52,8 @@ namespace Domain.Services
                 Id = Guid.NewGuid(),
                 Name = request.Name,
                 Price = request.Price,
-                Image = fileName
+                Image = fileName,
+                DateCreated = DateTime.Now
             };
 
             await _coffeeRepository.SaveAsync(coffee);
