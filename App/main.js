@@ -69,11 +69,10 @@ enterCoffeeItem.addEventListener('click', async (e) => {
     coffeeItem.append('name', title.value);
     coffeeItem.append('price', priceToChange);
     coffeeItem.append('image', uploadedImage.files[0]);
-
+    
     try {
       await createCoffeeItem(coffeeItem);
       alertDanger.classList.add("d-none");
-      enterCoffeeItem.setAttribute("data-bs-dismiss", "modal");
       addForm.reset();
       location.reload();
     } catch (error) {
