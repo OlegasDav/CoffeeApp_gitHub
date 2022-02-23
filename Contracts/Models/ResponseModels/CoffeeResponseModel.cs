@@ -6,8 +6,16 @@ namespace Contracts.Models.ResponseModels
     {
         public Guid Id { get; set; }
 
+        /// <summary>
+        /// The name of coffee
+        /// </summary>
+        /// <example>Cappuccino</example>
         public string Name { get; set; }
 
+        /// <summary>
+        /// The price of coffee
+        /// </summary>
+        ///<example>1.89</example>
         public decimal Price { get; set; }
 
         public string Image { get; set; }

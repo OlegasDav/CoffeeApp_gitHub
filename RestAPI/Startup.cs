@@ -6,6 +6,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using Persistence;
+using System;
+using System.IO;
+using System.Linq;
 using System.Text.Json.Serialization;
 
 namespace RestAPI
@@ -32,6 +35,11 @@ namespace RestAPI
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "RestAPI", Version = "v1" });
+
+                //c.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, "RestAPI.xml"));
+                //c.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, "Contracts.xml"));
+
+                Directory.GetFiles(AppContext.BaseDirectory, "*.xml", SearchOption.TopDirectoryOnly).ToList().ForEach(xmlFile => c.IncludeXmlComments(xmlFile));
             });
 
             services
