@@ -9,7 +9,8 @@ async function getCoffeeItems() {
 async function createCoffeeItem(coffeeItem) {
     let response = await fetch(baseUrl, {
         method: "POST",
-        body: coffeeItem
+        body: coffeeItem,
+        headers: {"accept-language": "fr"}
     });
 
     const parsedJson = await response.json();

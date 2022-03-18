@@ -70,7 +70,10 @@ namespace Domain.Services
 
                 File.Delete(path);
             }
-            catch { }
+            catch
+            {
+                // ignored
+            }
 
             await _coffeeRepository.DeleteAsync(id);
         }
