@@ -56,3 +56,321 @@
 2022-02-23 21:32:42.327 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
 2022-02-23 21:32:48.771 +02:00 [WRN] There are 10 coffee items
 2022-02-23 21:32:53.219 +02:00 [INF] Application is shutting down...
+2022-02-23 21:56:25.472 +02:00 [INF] Now listening on: https://localhost:5001
+2022-02-23 21:56:25.484 +02:00 [INF] Now listening on: http://localhost:5000
+2022-02-23 21:56:25.484 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-23 21:56:25.484 +02:00 [INF] Hosting environment: Development
+2022-02-23 21:56:25.484 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-02-23 21:56:46.770 +02:00 [WRN] There are 10 coffee items
+2022-02-23 21:56:58.243 +02:00 [INF] Application is shutting down...
+2022-03-01 16:27:06.349 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-01 16:27:06.376 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-01 16:27:06.377 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-01 16:27:06.377 +02:00 [INF] Hosting environment: Development
+2022-03-01 16:27:06.377 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-01 16:35:32.094 +02:00 [INF] Application is shutting down...
+2022-03-01 16:35:51.400 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-01 16:35:51.411 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-01 16:35:51.411 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-01 16:35:51.411 +02:00 [INF] Hosting environment: Development
+2022-03-01 16:35:51.411 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-01 16:37:29.868 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-01 16:37:29.883 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-01 16:37:29.883 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-01 16:37:29.883 +02:00 [INF] Hosting environment: Development
+2022-03-01 16:37:29.883 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-01 16:37:46.104 +02:00 [WRN] There are 11 coffee items
+2022-03-01 16:38:31.375 +02:00 [INF] Application is shutting down...
+2022-03-01 19:41:51.640 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-01 19:41:51.654 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-01 19:41:51.654 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-01 19:41:51.654 +02:00 [INF] Hosting environment: Development
+2022-03-01 19:41:51.654 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-01 19:57:44.131 +02:00 [WRN] There are 12 coffee items
+2022-03-01 19:58:33.689 +02:00 [WRN] There are 13 coffee items
+2022-03-01 19:58:36.797 +02:00 [WRN] There are 12 coffee items
+2022-03-01 20:01:10.490 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-01 20:01:10.506 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-01 20:01:10.506 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-01 20:01:10.506 +02:00 [INF] Hosting environment: Development
+2022-03-01 20:01:10.506 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-01 20:01:29.421 +02:00 [INF] Application is shutting down...
+2022-03-01 20:01:40.629 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-01 20:01:40.645 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-01 20:01:40.645 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-01 20:01:40.645 +02:00 [INF] Hosting environment: Development
+2022-03-01 20:01:40.645 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-01 20:09:24.478 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-01 20:09:24.491 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-01 20:09:24.491 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-01 20:09:24.491 +02:00 [INF] Hosting environment: Development
+2022-03-01 20:09:24.491 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-01 20:11:07.261 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-01 20:11:07.274 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-01 20:11:07.275 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-01 20:11:07.277 +02:00 [INF] Hosting environment: Development
+2022-03-01 20:11:07.278 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-01 20:16:58.609 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-01 20:16:58.625 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-01 20:16:58.626 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-01 20:16:58.626 +02:00 [INF] Hosting environment: Development
+2022-03-01 20:16:58.626 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-01 20:23:24.846 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-01 20:23:24.865 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-01 20:23:24.866 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-01 20:23:24.866 +02:00 [INF] Hosting environment: Development
+2022-03-01 20:23:24.866 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-01 20:29:58.478 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-01 20:29:58.486 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-01 20:29:58.486 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-01 20:29:58.486 +02:00 [INF] Hosting environment: Development
+2022-03-01 20:29:58.486 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-01 20:35:54.748 +02:00 [WRN] There are 20 coffee items
+2022-03-01 20:36:05.612 +02:00 [WRN] There are 20 coffee items
+2022-03-01 20:36:11.417 +02:00 [WRN] There are 19 coffee items
+2022-03-01 20:36:13.673 +02:00 [WRN] There are 18 coffee items
+2022-03-01 20:36:16.184 +02:00 [WRN] There are 17 coffee items
+2022-03-01 20:43:16.827 +02:00 [WRN] There are 17 coffee items
+2022-03-01 20:45:53.633 +02:00 [WRN] There are 17 coffee items
+2022-03-01 20:45:55.380 +02:00 [WRN] There are 17 coffee items
+2022-03-01 20:46:38.716 +02:00 [WRN] There are 18 coffee items
+2022-03-07 10:24:55.841 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-07 10:24:55.859 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-07 10:24:55.859 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-07 10:24:55.859 +02:00 [INF] Hosting environment: Development
+2022-03-07 10:24:55.859 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-07 10:25:28.558 +02:00 [WRN] There are 18 coffee items
+2022-03-15 15:27:46.246 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-15 15:27:46.284 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-15 15:27:46.285 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-15 15:27:46.285 +02:00 [INF] Hosting environment: Development
+2022-03-15 15:27:46.285 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-15 15:42:58.646 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-15 15:42:58.666 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-15 15:42:58.666 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-15 15:42:58.666 +02:00 [INF] Hosting environment: Development
+2022-03-15 15:42:58.667 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-15 15:44:49.721 +02:00 [ERR] Failed executing DbCommand (70ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime2), @p2='?' (DbType = DateTime2), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (Precision = 10) (Scale = 2) (DbType = Decimal)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Coffee] ([Id], [DateCreated], [DateTime], [Image], [Name], [Price])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2022-03-15 15:44:49.962 +02:00 [ERR] An exception occurred in the database while saving changes for context type 'Persistence.DatabaseContext.CoffeeAppContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'DateTime'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__277_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:95d324c6-beb3-4b2c-b2b0-5c6bf7f56c8f
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'DateTime'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__277_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:95d324c6-beb3-4b2c-b2b0-5c6bf7f56c8f
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2022-03-15 15:44:50.406 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'DateTime'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__277_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:95d324c6-beb3-4b2c-b2b0-5c6bf7f56c8f
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Persistence.Repositories.CoffeeRepository.SaveAsync(Coffee model) in C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\Persistence\Repositories\CoffeeRepository.cs:line 36
+   at Domain.Services.CoffeeService.AddAsync(CoffeeRequestModel request) in C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\Domain\Services\CoffeeService.cs:line 60
+   at RestAPI.Controllers.CoffeeController.Add(CoffeeRequestModel requestModel) in C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI\Controllers\CoffeeController.cs:line 131
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-03-15 15:45:54.572 +02:00 [ERR] Failed executing DbCommand (2ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime2), @p2='?' (DbType = DateTime2), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (Precision = 10) (Scale = 2) (DbType = Decimal)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Coffee] ([Id], [DateCreated], [DateTime], [Image], [Name], [Price])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2022-03-15 15:45:54.576 +02:00 [ERR] An exception occurred in the database while saving changes for context type 'Persistence.DatabaseContext.CoffeeAppContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'DateTime'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__277_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:95d324c6-beb3-4b2c-b2b0-5c6bf7f56c8f
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'DateTime'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__277_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:95d324c6-beb3-4b2c-b2b0-5c6bf7f56c8f
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2022-03-15 15:45:54.893 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'DateTime'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__277_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:95d324c6-beb3-4b2c-b2b0-5c6bf7f56c8f
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Persistence.Repositories.CoffeeRepository.SaveAsync(Coffee model) in C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\Persistence\Repositories\CoffeeRepository.cs:line 36
+   at Domain.Services.CoffeeService.AddAsync(CoffeeRequestModel request) in C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\Domain\Services\CoffeeService.cs:line 60
+   at RestAPI.Controllers.CoffeeController.Add(CoffeeRequestModel requestModel) in C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI\Controllers\CoffeeController.cs:line 131
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-03-15 15:46:18.501 +02:00 [INF] Application is shutting down...
+2022-03-15 15:49:43.228 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-15 15:49:43.237 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-15 15:49:43.238 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-15 15:49:43.238 +02:00 [INF] Hosting environment: Development
+2022-03-15 15:49:43.238 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-15 16:03:37.436 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-15 16:03:37.443 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-15 16:03:37.444 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-15 16:03:37.444 +02:00 [INF] Hosting environment: Development
+2022-03-15 16:03:37.444 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-15 16:04:23.591 +02:00 [WRN] There are 20 coffee items
+2022-03-15 16:04:53.158 +02:00 [WRN] There are 19 coffee items
+2022-03-15 16:04:57.481 +02:00 [WRN] There are 18 coffee items
+2022-03-15 16:05:01.026 +02:00 [WRN] There are 17 coffee items
+2022-03-15 16:05:06.390 +02:00 [WRN] There are 16 coffee items
+2022-03-15 16:05:14.651 +02:00 [WRN] There are 15 coffee items
+2022-03-15 16:05:19.133 +02:00 [WRN] There are 14 coffee items
+2022-03-15 16:05:25.126 +02:00 [WRN] There are 13 coffee items
+2022-03-17 10:29:38.785 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-17 10:29:38.818 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-17 10:29:38.819 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-17 10:29:38.819 +02:00 [INF] Hosting environment: Development
+2022-03-17 10:29:38.819 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-17 10:31:34.025 +02:00 [WRN] There are 15 coffee items
+2022-03-17 10:31:51.742 +02:00 [WRN] There are 14 coffee items
+2022-03-17 10:31:59.634 +02:00 [WRN] There are 13 coffee items
+2022-03-17 10:32:23.232 +02:00 [INF] Application is shutting down...
+2022-03-17 10:32:48.541 +02:00 [INF] Now listening on: https://localhost:5001
+2022-03-17 10:32:48.576 +02:00 [INF] Now listening on: http://localhost:5000
+2022-03-17 10:32:48.577 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-17 10:32:48.577 +02:00 [INF] Hosting environment: Development
+2022-03-17 10:32:48.577 +02:00 [INF] Content root path: C:\Users\oldav\Documents\BIT mokymai\4_NET\1_Paskaitos\Projektai\CoffeeApp_gitHub\RestAPI
+2022-03-17 10:33:40.546 +02:00 [WRN] There are 15 coffee items
+2022-03-17 10:33:46.913 +02:00 [WRN] There are 14 coffee items
+2022-03-17 10:33:49.700 +02:00 [WRN] There are 13 coffee items
