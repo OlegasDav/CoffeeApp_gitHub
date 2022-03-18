@@ -4,12 +4,13 @@ using Domain.Services;
 using Ionic.Zip;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.StaticFiles;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.Extensions.Logging;
 
 namespace RestAPI.Controllers
 {
@@ -57,7 +58,7 @@ namespace RestAPI.Controllers
             var fileName = name;
             var filePath = Path.Combine(Directory.GetCurrentDirectory(), @"..\Upload\images", fileName);
 
-            if(!System.IO.File.Exists(filePath))
+            if (!System.IO.File.Exists(filePath))
             {
                 return NotFound();
             }
@@ -125,6 +126,8 @@ namespace RestAPI.Controllers
         [HttpPost]
         public async Task<ActionResult<CoffeeResponseModel>> Add([FromForm] CoffeeRequestModel requestModel)
         {
+            var hello = CultureInfo.CurrentCulture;
+
             var coffee = await _coffeeService.AddAsync(requestModel);
 
             return Ok(coffee);

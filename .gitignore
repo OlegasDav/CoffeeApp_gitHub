@@ -37,3 +37,5 @@ Upload/
 
 appsettings.Development.json
 Contracts/Enums/Tests.cs
+
+Persistence/Migrations/20220315134736_AddDateTime.cs
