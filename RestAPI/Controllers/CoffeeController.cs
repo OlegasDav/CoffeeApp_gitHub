@@ -126,7 +126,7 @@ namespace RestAPI.Controllers
         [HttpPost]
         public async Task<ActionResult<CoffeeResponseModel>> Add([FromForm] CoffeeRequestModel requestModel)
         {
-            var hello = CultureInfo.CurrentCulture;
+            var cultureInfo = CultureInfo.CurrentCulture;
 
             var coffee = await _coffeeService.AddAsync(requestModel);
 
